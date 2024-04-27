@@ -1,4 +1,4 @@
-# Hotel Cancellation Analysis
+# Hotel Booking Demand Analysis
 
 This repository contains an analysis of hotel booking cancellations at City Hotel and Resort Hotel, aiming to address the issue of high cancellation rates. 
 
